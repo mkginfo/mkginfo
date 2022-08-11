@@ -7,6 +7,7 @@
   <a href="https://www.linkedin.com/in/mkglooks/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=mkginfo&style=flat-square&color=blue" alt=""/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Mohit Kumar Gupta</h1>
