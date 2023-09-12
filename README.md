@@ -3,6 +3,9 @@
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100"/>
 </div>
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="mkglooks" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://nl.linkedin.com/in/mkglooks?trk=profile-badge">Mohit Kumar Gupta</a></div>
+              
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/mkglooks/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
