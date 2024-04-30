@@ -20,9 +20,9 @@
 
 ### :man_technologist: About Me:
 
-I am a Senior Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Lead Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Developer.gif" width="30px"> A **Technophile**  and a **Design Enthusiast** <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Designer.gif" width="30px">, who is obsessed with the idea of improving himself and explore various things.
-- 🔎 I’m looking for a job as a Lead Frontend Developer.
+- 🔎 I’m open to a new challenge as a Lead Frontend Developer role.
 - 🌱 I’m currently expanding my knowledge with new technologies such as NodeJS, Express, Database and others.
 - ⚡ In my free time, I watch movies and read tech articles.
 
